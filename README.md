@@ -1,8 +1,5 @@
 <h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50">, I am Abhishek Srivastava </h1>
 <h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering from Institute of Engineering and Technology, Lucknow! </h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSrivastava-23&layout=compact&hide=ejs,html" alt="Most Used Languages" height="138px" />
-</div>
 
 ---
 <h2 align="center">Languages</h2>
@@ -34,6 +31,11 @@
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/> 
   </a>
 </p>  
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSrivastava-23&layout=compact&hide=ejs,html" alt="Most Used Languages" height="138px" />
+</div>
 
 ---
 <h2 align = "center"> 📫 Reach me on 📫 </h2>
