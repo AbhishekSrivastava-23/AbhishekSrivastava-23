@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50">, I am Abhishek Srivastava </h1>
+<h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Abhishek Srivastava </h1>
 <h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering from Institute of Engineering and Technology, Lucknow! </h3>
 
 ---
