@@ -34,7 +34,7 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSrivastava-23&layout=compact&hide=ejs,html" alt="Most Used Languages" height="138px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSrivastava-23&layout=compact" alt="Most Used Languages" height="138px" />
 </div>
 
 ---
